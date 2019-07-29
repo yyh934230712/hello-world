@@ -2,4 +2,5 @@
 
 Hi HUmans!
 
-Hubot here.I like Node.ji and Coffescrips
+Hubot here.I like Node.ji and Coffescript {that's what I'm made of!}.
+I've had tacos on the moon and find them far superior to Earth tacos.
